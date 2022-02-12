@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+Reto Kanterita Brenda Arcentales
+El presente proyecto esta realizado con los siguientes componentes
+- Reactjs
+- firebase
+- bootstrap
+Se puede usar las credenciales de firebase 
+Para descargar el repositorio se lo puede clonar o descargar la carpeta zip y abrirlo en cualquier IDE 
+ejecutando npm i para instalar las dependencias del repositorio
+Una vez instalado todas las dependencias la ejecución del proyecto se lo realiza con el comando npm start
+como se detalla a definicion
+Para ingresar como admin se utiliza el correo: admin@prueba.com y la contraseña es 123123
+Cualquier duda comunicarse al correo brendaestefania4@hotmail.com
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
